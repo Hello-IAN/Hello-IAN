@@ -9,5 +9,6 @@
 </a>
 
 <a href="https://github.com/Hello-IAN">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-IAN&theme=apprentice&layout=compact" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-IAN&theme=apprentice" />
 </a>
+
