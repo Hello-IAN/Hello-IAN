@@ -2,6 +2,8 @@
 <p> :white_medium_square: :mag_right: 저는 프론트엔드 개발자입니다.</p>
  <p>:black_medium_square: & 유지보수하기 좋은 코드, 사람이 읽기 쉬운 코드가 좋은 코드라고 생각합니다. </p>
   <p> :white_medium_square: & 동료와의 소통을 좋아합니다. 빠른 성장은 코드 리뷰, 동료와의 지식공유를 통해 가능하다고 믿습니다. </p>
+   <p>:black_medium_square: & 노션 이력서는 <a href="https://cheddar-appeal-ee8.notion.site/ad4a6ac2b83d476b91ac307d6f2510a7?pvs=4">이쪽 </a> 입니다. </p>
+
 
  <h2>지금까지 한 일</h2>
   <h3>2023.06 ~ 2023.10</h3>
