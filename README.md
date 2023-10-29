@@ -6,9 +6,9 @@
  <h2>지금까지 한 일</h2>
   <h3>2023.06 ~ 2023.10</h3>
   <p>(주)쏘쏘마켓에서 프론트엔드 개발자로 근무하였습니다.</p>
-  <p>:black_medium_square:유료 회원을 위한 구독 서비스를 개발하였습니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;
-   유저의 위치 정보를 기반으로 제공되는 서비스입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;
-   React와 React Query, jotai, Typescript를 사용하였으며,<br>&nbsp;&nbsp;&nbsp;&nbsp;
+  <p>유료 회원을 위한 구독 서비스를 개발하였습니다.<br>
+   유저의 위치 정보를 기반으로 제공되는 서비스입니다.<br>
+   React와 React Query, jotai, Typescript를 사용하였으며,<br>
    NaverMap API, Nivo등의 외부 라이브러리를 사용하였습니다. </p>
  <h3>2023.01 ~ 2023.06.</h3>
   <p>배포 예정중 moim에서 유저 프로필 스크린을 담당했습니다.</p>
