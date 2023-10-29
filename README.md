@@ -1,15 +1,15 @@
 <h1> 안녕하세요, 민요한입니다. :hand: </h1>
 <p> :white_medium_square: :mag_right: 저는 프론트엔드 개발자입니다.</p>
- <o>:black_medium_square: & 유지보수하기 좋은 코드, 사람이 읽기 쉬운 코드가 좋은 코드라고 생각합니다. </p>
+ <p>:black_medium_square: & 유지보수하기 좋은 코드, 사람이 읽기 쉬운 코드가 좋은 코드라고 생각합니다. </p>
   <p> :white_medium_square: & 동료와의 소통을 좋아합니다. 빠른 성장은 코드 리뷰, 동료와의 지식공유를 통해 가능하다고 믿습니다. </p>
 
  <h2>지금까지 한 일</h2>
   <h3>2023.06 ~ 2023.10</h3>
   <p>(주)쏘쏘마켓에서 프론트엔드 개발자로 근무하였습니다.</p>
-  <p>유료 회원을 위한 구독 서비스를 개발하였습니다.</p>
-  <p>유저의 위치 정보를 기반으로 제공되는 서비스입니다.</p>
-  <p>React와 React Query, jotai, Typescript를 사용하였으며,</p>
-  <p>NaverMap API, Nivo등의 외부 라이브러리를 사용하였습니다. </p>
+  <p>:black_medium_square:유료 회원을 위한 구독 서비스를 개발하였습니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;
+   유저의 위치 정보를 기반으로 제공되는 서비스입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;
+   React와 React Query, jotai, Typescript를 사용하였으며,<br>&nbsp;&nbsp;&nbsp;&nbsp;
+   NaverMap API, Nivo등의 외부 라이브러리를 사용하였습니다. </p>
  <h3>2023.01 ~ 2023.06.</h3>
   <p>배포 예정중 moim에서 유저 프로필 스크린을 담당했습니다.</p>
   <p>React Native, ReduxToolkit, TypeScript를 사용했습니다.</p>
